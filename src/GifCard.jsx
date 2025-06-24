@@ -23,5 +23,5 @@ const GifCard = () => //
   {
     const [,"something"] = useState 
   };
-
+ 
 export default GifCard;
